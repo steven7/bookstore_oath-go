@@ -4,8 +4,8 @@ github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/steven7/bookstore_utils-go v0.0.0-20201212230238-cb37b2aaf734 h1:082Z98icdPoxrShZY3n2fwY0U1zhq5zbni9Rga8nOwY=
-github.com/steven7/bookstore_utils-go v0.0.0-20201212230238-cb37b2aaf734/go.mod h1:QgZTF4GfHFocIc/mvfA+nQlx5+gTQJNa1wZcGiIRXTI=
+github.com/steven7/bookstore_utils-go v0.0.0-20201213170924-1e4a38614203 h1:odeOqFmUIAXnKgN/BSrnzCMP1n0/SfQ7UIlxXAu+zuc=
+github.com/steven7/bookstore_utils-go v0.0.0-20201213170924-1e4a38614203/go.mod h1:uwWoFeatZAxm9ShDe6dvISohvj64cRhmjYNPZO0HgQM=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
