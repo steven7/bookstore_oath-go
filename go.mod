@@ -1,4 +1,4 @@
-module github.com/steven7/bookstore_oath-go
+module github.com/steven7/bookstore_oauth-go
 
 go 1.15
 
